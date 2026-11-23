@@ -49,16 +49,25 @@ Overall, the results suggest that StockTwits activity can provide an indication 
 
 ### Tools 
 Python
+
 Pandas
+
 NumPy
+
 Matplotlib
+
 Seaborn
+
 yfinance
+
 Jupyter Notebook / Google Colab
 
 ### Team Contributors
 Almira Lazim
+
 Alicia Mora
+
 Pakaporn (Zoe) Leetrairong
+
 Ricardo Huang Wei Di
 
